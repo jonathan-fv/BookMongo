@@ -1,0 +1,17 @@
+{
+    "name": "jonat/book-mongo",
+    "autoload": {
+        "psr-4": {
+            "Jonat\\BookMongo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonathan Fenoud-Viard",
+            "email": "jonathan.fenoud-viard@outlook.fr"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.15"
+    }
+}

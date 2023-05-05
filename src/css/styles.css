@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+.navbar{
+    box-shadow: 0px 5px 5px 0px #c2c0c0;
+}
+.navbar .container{
+    margin-top: 0;
+}
+.navbar-brand img{
+    width: 150px;
+}
+.navbar-nav .nav-item .nav-link{
+    border-bottom : 1px solid transparent;
+    transition: all .5s ease-in-out;
+    padding: 0 8px;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    border-bottom : 1px solid #2a2af8;
+}
+h1{
+    text-align: center;
+    margin: 150px 0 0 0;
+    font: bold 50px 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+h2{
+    text-align: center;
+    margin: 50px 0 0 0;
+    font: bold 50px 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+.container{
+    margin-top: 50px;
+}
+.card{
+    box-shadow: 0px 5px 5px 0px #c2c0c0;
+    width : 30%;
+    margin: 20px;
+}
+.card .card-img-top{
+    height: 500px;
+}
+.card h5{
+    font: bold 18px 'Roboto', sans-serif;
+}
+.card p{
+    font: 14px 'Poppins', sans-serif;
+    /* height: 160px; */
+    text-align: justify;
+}
+.card .link{
+    margin : 10px;
+}
+.card .link a,
+.card .link button{
+    font-size: 14px;
+    font-weight: 300;
+}
+.container_book{
+    margin-top: 150px;
+}
+.container_book .card_book{
+    width: 100%;
+}
+.container .card_book .infos .details{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.container .card_book .infos .details p{
+    font: 16px 'Poppins', sans-serif;
+    margin: 35px 0;
+}
+.container .card_book .infos .details p span,
+.container .card_book .resume p span{
+    font-weight: 700;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+.container .infos{
+    margin-top: 20px;
+}
+.container .card_book .cover img{
+    height: 500px;
+}
+.container .card_book .resume{
+    margin: 20px;
+}
+.container .card_book .resume p{
+    margin: 10px;
+    font-size: 16px;
+}
+.add .btn{
+    margin: 10px;
+}
+footer{
+    box-shadow: 0px -5px 5px 0px #C2C0C0;
+    margin-top: 30px;
+}
+.user{
+    font-size: 5rem;
+}
+.title-profil{
+    text-transform: capitalize;
+    font-size: 20x;
+    font-weight: 400;
+}
+.container_manga{
+    margin-top: 20px;
+}
+.title-info{
+    text-align: center;
+    margin-top: 30px;
+}
+.library-card{
+    width : 20%;
+}
+.library-card .card-img-top{
+    height: 350px;
+}
+.library-card h5{
+    text-align: center;
+}
+.btn_manga{
+    margin-top: 10px;
+}
+
+.container-section{
+    margin-top: 170px;
+    border: 1px solid black;
+    box-shadow: 0px 5px 5px 0px #c2c0c0;
+    width: 80%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.container-section button{
+    margin-bottom: 20px;
+}
+.form-button{
+    margin-right: 10px;
+}
+.updateprofil{
+    margin-top: 100px;
+}
+table img{
+    width: 100%;
+}
+.link-btn{
+padding: 3px 12px;
+}
+td{
+    vertical-align: middle;
+}
+.input-box input{
+    width: 500px;
+}
+.input-img{
+    margin: 0 70px;
+}
